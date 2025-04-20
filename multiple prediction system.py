@@ -109,7 +109,7 @@ if (selected=='Heart Disease Prediction'):
             heart_diagnosis='The person is having heart disease'
         else:
             heart_diagnosis='The person does not have any heart disease'
-    st.sucess(heart_diagnosis)
+    st.success(heart_diagnosis)
     
 #The third page: Parkinsons
     
